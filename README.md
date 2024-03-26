@@ -1,4 +1,3 @@
-#!/bin/bash
 
 # WAY 2 CAREER README
 
