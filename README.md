@@ -1,49 +1,35 @@
-# Internshala
+#!/bin/bash
 
-This is a clone of Internshal website. Internshala is an internship and online training platform, based in Gurgaon, India. Founded by Sarvesh Agrawal, an IIT Madras alumnus, in 2011, the website helps students find internships with organisations in India. [Click here](https://internshala.com/) to see original website.
-[Click here](https://blooming-bastion-29120.herokuapp.com/pages/index.ejs) to see our clone.
+# WAY 2 CAREER README
 
-## Sample screenshot
+# Introduction
+# WAY 2 CAREER is a career guidance platform with an AI-powered chatbot for personalized counseling.
 
-![Sample screenshot](/src/public/images/screenshot.png "Home page screenshot")
+# Features
+# - Career Counseling Chatbot: Engage with our AI-powered chatbot for interactive guidance.
+# - Internship Finder: Access and apply to a wide range of internships.
+# - Job Search: Explore and apply for jobs suitable for fresh graduates.
+# - Personality Assessment Test: Complete the test to receive career path recommendations.
 
-## Technologies used
+# Technologies Used
+# - Frontend: HTML, CSS, JavaScript, Streamlit
+# - Backend: Python, NumPy, Pandas, TensorFlow, joblib
+# - Data Management: CSV files for storing test questions and career data
 
-- HTML
-- CSS
-- Javascript
-- MongoDB
+# Installation
+# 1. Clone the repository to your local machine.
+# 2. Ensure Python and necessary libraries are installed.
+# 3. Run the application using Streamlit.
 
-## Libraries and APIs used
+# Usage
+# Navigate through the website to interact with the chatbot, take the personality test, and apply for jobs or internships.
 
-- DOM
-- Google Fonts Library
-- fontawesome Icons
-- Express
-- mongoose
+# Contributing
+# Contributions are welcome! Please refer to the project's contribution guidelines for more information.
 
-## Features buit
+# License
+# This project is licensed under the [License Type] License.
 
-- Implimented dynamic search bar on home page
-- Realtime internships fetched from MongoDB
-- Filters functionality for internships page
-- Signup/Login functionality by using MongoDB
-- Dynamic "View details" page for each internship
+# Contact Information
+# For more information or to provide feedback, please contact [Contact Information].
 
-## Team Members
-
-- [Vishal Kumar Sinha](https://github.com/Vishal062)
-- [Badvel Venkata Srikanth Reddy](https://github.com/SrikanthReddyBV)
-- [Krishna Kumar Keshri](https://github.com/KrishnaKumarKeshri96)
-- [Sarvesh Kumar Sharma](https://github.com/SARVESHSHARMA-SKS)
-
-## How to use our app?
-- Install git on your machine
-- Clone our repository by running the command ``` git clone https://github.com/SrikanthReddyBV/Internshala.git ```
-- Change directory to Internshala by running ``` cd Internshala ```
-- And then run following two commands
-- ``` npm install ```
-- ``` npm start ```
-- Open your browser and go to  ``` http://localhost:2222/pages/index.ejs ```
-- Or by skipping above steps
-  simply goto https://blooming-bastion-29120.herokuapp.com/pages/index.ejs 
